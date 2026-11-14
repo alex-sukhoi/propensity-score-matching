@@ -1,0 +1,4 @@
+"specification","treated_total","matched_pairs","pct_treated_matched","max_abs_smd_after"
+"NN 1:1, caliper 0.2",55,50,90.9,0.09
+"NN 1:1, caliper 0.3",55,51,92.7,0.112
+"NN 1:1, caliper 0.2 + exact on bilobar",55,49,89.1,0.165

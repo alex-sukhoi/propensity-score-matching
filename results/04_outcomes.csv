@@ -1,0 +1,3 @@
+"outcome","laparoscopic_unmatched","open_unmatched","laparoscopic_matched","open_matched","test_matched","p_matched"
+"Length of stay, median days",6,8,6,8,"Paired Wilcoxon",0.000163
+"90-day complications, %",9.1,26.7,10,28,"McNemar",0.0159
